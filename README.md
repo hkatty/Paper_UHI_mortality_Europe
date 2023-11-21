@@ -2,7 +2,7 @@
 
 This repository contains core code associated with the paper:
 
-Huang et al. 2023, Economic valuation of temperature-related mortality attributed to urban heat islands in European cities.
+Huang, W.T.K. et al. (2023) Economic valuation of temperature-related mortality attributed to urban heat islands in European cities. *Nature Communications*, **14**, 7438. https://doi.org/10.1038/s41467-023-43135-z
 
 ## Data required
 
